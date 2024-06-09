@@ -21,4 +21,5 @@ Contents
    usage
    api
 
+.. documentos/fuente/index.rst::
 Lumache has its documentation hosted on Read the Docs.
